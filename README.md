@@ -1,3 +1,8 @@
+=(SAM-Coupe_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # [SAM Coupe](https://en.wikipedia.org/wiki/SAM_Coup%C3%A9) for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 ### Features:
